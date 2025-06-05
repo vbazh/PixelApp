@@ -11,4 +11,8 @@ public object Colors {
     val ViennaBackground = Color(0xFFF0ECEC)
     val Green = Color(0xFF9ABD39)
     val DarkGreen = Color(0xFF3B5E20)
+    val PurpleLight = Color(0xFFC7B0F5)
+    val PurpleMedium = Color(0xFFA88DF5)
+    val PurpleDark = Color(0xFF6F55BB)
+    val BlueDark = Color(0xFF2F2D45)
 }
