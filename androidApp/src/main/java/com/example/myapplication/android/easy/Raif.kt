@@ -5,6 +5,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.myapplication.android.answers.raifAnswer
 import com.example.myapplication.android.base.PixelProject
+import com.example.myapplication.android.colors.Colors
 
 class Raif : PixelProject(raifAnswer) {
     override val colorMap: Map<Int, Color> = mapOf(

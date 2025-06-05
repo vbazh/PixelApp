@@ -22,7 +22,7 @@ abstract class PixelProject(
     }
 
     @Composable
-    fun ResultPreview() {
+    fun AnswerPreview() {
         ProjectRender(
             pixels = answer,
             colorMap = colorMap

@@ -4,6 +4,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.myapplication.android.base.PixelProject
 import com.example.myapplication.android.answers.swiftResult
+import com.example.myapplication.android.colors.Colors
 
 class Swift : PixelProject(swiftResult) {
 
